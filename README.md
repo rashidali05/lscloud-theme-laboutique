@@ -3,7 +3,7 @@ lscloud-theme-laboutique
 
 LemonStand Cloud - La Boutique Theme
 
-Created by: [Twin Dots](http://twindots.com/)
+Created by: [Rashid Ali](http://realrashid.com/) | [Twin Dots](http://twindots.com/)
 
 This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License
 
@@ -48,3 +48,16 @@ La Boutique’s versatility provides you with the tools to weave elegant eCommer
 * Instant search allowing your customers to find the product they want with ease  
   
 * And much more…  
+
+# Issues and Contribution
+
+Just submit an issue or pull request through GitHub. Thanks!
+
+## Connect with Me
+
+- Email: rashidali.pk99@gmail.com
+- Twitter: http://twitter.com/rashidali05
+- Facebook: https://www.facebook.com/rashidali05
+- GitHub: https://github.com/rashidali05
+
+<p align="center"> <b>Made :heart: with Pakistan<b> </p>
